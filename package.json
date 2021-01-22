@@ -1,0 +1,24 @@
+{
+  "name": "BuildingRestApiWithNodeJsAndExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dontunee/BuildingRestApiWithNodeJsAndExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dontunee/BuildingRestApiWithNodeJsAndExpress/issues"
+  },
+  "homepage": "https://github.com/Dontunee/BuildingRestApiWithNodeJsAndExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0"
+  }
+}
